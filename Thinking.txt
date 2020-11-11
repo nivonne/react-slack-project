@@ -1,2 +1,24 @@
 STEPS:
-1. Wireframing -
+1. Wireframing - Draw rough sketch of what you are actually going to build
+2. Functionality
+  * Sign in
+  * Sign up
+  * Create a channel
+  * Send message in a channel
+  * Join a channel
+  * Search a channel
+3. Data
+  * users
+  * channels
+  * messages
+4. UI components
+  * Slack component
+  * Sidebar
+    * List Of Channel
+    * List Of Direct Messages
+  * MainContainer
+    * Header
+    * Message
+    * Create Message
+  * Sign In
+  * Sign Up
