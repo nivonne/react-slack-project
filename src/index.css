@@ -95,9 +95,9 @@ code {
   margin: 0;
 }
 
-#sidebar .channels {
-  /* padding: 10px 15px; */
-}
+/* #sidebar .channels {
+   padding: 10px 15px; 
+} */
 
 #sidebar .channels .header {
   font-weight: 500;
@@ -162,8 +162,8 @@ code {
   margin-right: 10px;
 }
 
-#main-container .messages-list .right-block {
-}
+/* #main-container .messages-list .right-block {
+} */
 
 #main-container .messages-list .right-block .user {
   display: flex;
