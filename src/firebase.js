@@ -3,17 +3,17 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyC1AOI-TzBw_0xF5vZpJ4QbTTfL_LJNeAA',
-  authDomain: 'slacky-d1604.firebaseapp.com',
-  databaseURL: 'https://slacky-d1604.firebaseio.com',
-  projectId: 'slacky-d1604',
-  storageBucket: 'slacky-d1604.appspot.com',
-  messagingSenderId: '198405935145',
-  appId: '1:198405935145:web:d9b9129b65a17947e08c38',
+  apiKey: "AIzaSyDMOHpDgrO29nSC4gh2JbRR535gSB3Q5vg",
+  authDomain: "react-slack-project-a67fd.firebaseapp.com",
+  databaseURL: "https://react-slack-project-a67fd.firebaseio.com",
+  projectId: "react-slack-project-a67fd",
+  storageBucket: "react-slack-project-a67fd.appspot.com",
+  messagingSenderId: "532861473509",
+  appId: "1:532861473509:web:b72d256d8ba33bbd04fa0c"
 };
 
-// Initialize Firebase
-firebase.initializeApp(firebaseConfig);
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
 
 // Auth stuff
 export const auth = firebase.auth();
